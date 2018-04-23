@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{F56BC735-CE6B-4B9C-A7C6-19FCC0B7F593}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SteeltoeOSS-Example/nuget.config">
+    <Files>
+      <File FileName="SteeltoeOSS-Example/Controllers/ValuesController.cs" Line="20" Column="1" />
+      <File FileName="SteeltoeOSS-Example/appsettings.json" Line="26" Column="4" />
+      <File FileName="SteeltoeOSS-Example/Startup.cs" Line="34" Column="109" />
+      <File FileName="SteeltoeOSS-Example/Program.cs" Line="22" Column="43" />
+      <File FileName="SteeltoeOSS-Example/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="SteeltoeOSS-Example/nuget.config" Line="9" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SteeltoeOSS-Example PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

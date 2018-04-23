@@ -1,0 +1,11 @@
+/Users/jlear/Projects/SteeltoeOSS-Example/SteeltoeOSS-Example/bin/Debug/netcoreapp2.0/SteeltoeOSS-Example.deps.json
+/Users/jlear/Projects/SteeltoeOSS-Example/SteeltoeOSS-Example/bin/Debug/netcoreapp2.0/SteeltoeOSS-Example.runtimeconfig.json
+/Users/jlear/Projects/SteeltoeOSS-Example/SteeltoeOSS-Example/bin/Debug/netcoreapp2.0/SteeltoeOSS-Example.runtimeconfig.dev.json
+/Users/jlear/Projects/SteeltoeOSS-Example/SteeltoeOSS-Example/bin/Debug/netcoreapp2.0/SteeltoeOSS-Example.dll
+/Users/jlear/Projects/SteeltoeOSS-Example/SteeltoeOSS-Example/bin/Debug/netcoreapp2.0/SteeltoeOSS-Example.pdb
+/Users/jlear/Projects/SteeltoeOSS-Example/SteeltoeOSS-Example/obj/Debug/netcoreapp2.0/SteeltoeOSS-Example.csprojResolveAssemblyReference.cache
+/Users/jlear/Projects/SteeltoeOSS-Example/SteeltoeOSS-Example/obj/Debug/netcoreapp2.0/SteeltoeOSS-Example.csproj.CoreCompileInputs.cache
+/Users/jlear/Projects/SteeltoeOSS-Example/SteeltoeOSS-Example/obj/Debug/netcoreapp2.0/SteeltoeOSS-Example.AssemblyInfoInputs.cache
+/Users/jlear/Projects/SteeltoeOSS-Example/SteeltoeOSS-Example/obj/Debug/netcoreapp2.0/SteeltoeOSS-Example.AssemblyInfo.cs
+/Users/jlear/Projects/SteeltoeOSS-Example/SteeltoeOSS-Example/obj/Debug/netcoreapp2.0/SteeltoeOSS-Example.dll
+/Users/jlear/Projects/SteeltoeOSS-Example/SteeltoeOSS-Example/obj/Debug/netcoreapp2.0/SteeltoeOSS-Example.pdb
